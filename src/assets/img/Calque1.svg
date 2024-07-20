@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 631.34 755.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 56.23px;
+      }
+
+      .cls-2 {
+        letter-spacing: .14em;
+      }
+
+      .cls-3 {
+        letter-spacing: .14em;
+      }
+
+      .cls-4 {
+        letter-spacing: .15em;
+      }
+
+      .cls-5 {
+        letter-spacing: .15em;
+      }
+
+      .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #368fce;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        letter-spacing: .15em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <polygon class="cls-6" points="0 477.44 232.22 648.23 318.18 580.3 93.49 407.57 93.49 339.64 367.94 135.86 367.94 0 0 275.6 0 477.44"/>
+      <text class="cls-1" transform="translate(127.92 741.61) scale(1.37 1)"><tspan class="cls-8" x="0" y="0">S</tspan><tspan class="cls-5" x="35.99" y="0">t</tspan><tspan class="cls-2" x="63.04" y="0">a</tspan><tspan class="cls-4" x="98.13" y="0">y </tspan><tspan class="cls-3" x="153.41" y="0">z</tspan><tspan class="cls-5" x="185.51" y="0">en</tspan></text>
+      <path class="cls-7" d="M595.13,238.87C502.86,65.72,261.15,58.48,249.94,58.3l1.42,123.11v470.62c43.19-.94,120.76-8.24,203.13-50.66,54.02-27.82,131.7-67.82,163.36-154.58,35.74-97.94-12.56-188.84-22.73-207.93ZM501.37,403.85c-12.12,44.11-41.87,64.46-62.55,78.6-31.54,21.57-61.24,25.29-77.78,25.76v-239.31l-.54-62.6c4.29.09,96.84,3.77,132.17,91.82,3.89,9.7,22.39,55.93,8.7,105.73Z"/>
+    </g>
+  </g>
+</svg>
